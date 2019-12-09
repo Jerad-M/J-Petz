@@ -1,7 +1,7 @@
-# jerweb
-jeradmcintyre.com website
+# J-Petz
+J-Petz website
 
-This repository contains all necessary code involved in running the jerweb application. Database setup files to come soon.
+This repository contains all necessary code involved in running the j-petz application. Database setup files to come soon.
 
 # Installation
 * Set up database (scripts for that to come)
